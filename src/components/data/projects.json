@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "title": "Real Time Emotion-Detection",
+    "imageSrc": "https://img.freepik.com/free-vector/emotion-detection-abstract-concept-illustration-speech-emotional-state-recognition-emotion-detection-from-text-sensor-technology-machine-learning-ai-reading-face_335657-268.jpg",
+    "description": "A Python project using Machine learning and OpenCV to accurately detect and classify human emotions in real time.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Personal Portfolio",
+    "imageSrc": "https://designnotes.blog.gov.uk/wp-content/uploads/sites/53/2020/06/Portfolio-Desk.jpg",
+    "description": "A responsive web portfolio built with React and Vite to showcase projects, skills, and experience with a clean, modern UI and smooth animations.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "LeetMetrics",
+    "imageSrc": "https://media.licdn.com/dms/image/v2/D5622AQGQFqfqB0yH0g/feedshare-shrink_800/B56ZfbhdmLHoAo-/0/1751734672497?e=2147483647&v=beta&t=SHbw4HROmOMS3o-2VXCOQZ2K6l5tSSSe0bl1rUgTYV4",
+    "description": "A web app using the LeetCode API to display user stats by problem difficulty, offering clear insights into coding performance.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 4,
+    "title": "Netflix Clone",
+    "imageSrc": "https://www.codewithrandom.com/wp-content/uploads/2022/03/bIQZAay4UIw-HD.jpg",
+    "description": "A responsive front-end replica of Netflix built using HTML and CSS, featuring a modern layout, navigation, and visually appealing design.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

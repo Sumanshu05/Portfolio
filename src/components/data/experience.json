@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "role": "Chandigarh Group Of Colleges , Landran",
+    "work": "Bachelor of Technology (B.Tech) in Computer Science and Engineering",
+    "year": "2023-2027",
+    "location": "Landran , Punjab",
+    "Percentage":"81% (Ongoing)",
+    "imageSrc": "company/CGC.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Kendriya Vidyalaya Sangathan , CBSE",
+    "year": "2022-2023",
+    "location": "Jalalabad(W) , Punjab",
+    "Percentage": "77.6%",
+    "imageSrc": "company/KVS.jpg"
+  },
+  {
+    "id": 3,
+    "role": "D.A.V. Sen. Sec. Public School , CBSE",
+    "year": "2020-2021",
+    "location": "Jalalabad(W) , Punjab",
+    "Percentage":"88.6%",
+    "imageSrc": "company/DAV1.jpg"
+  }
+]
