@@ -29,10 +29,10 @@ const Home = () => {
   return (
     <>
       <div className="container home" id="home">
-        <div className="left" data-aos="fade-up-right" data-aso-duration="1000">
+        <div className="left" data-aos="fade-up-right" data-aos-duration="1000">
           <h1 ref={typedRef}></h1>
 
-          <a href={pdf} download="resume.pdf" className="btn btn-warning my-3"> Download Resume</a>
+          <a href={pdf} download="resume.pdf" className="btn-gradient my-3">Download Resume</a>
 
         </div>
 
